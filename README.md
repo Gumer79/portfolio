@@ -1,5 +1,6 @@
 # portfolio
 My first portfolio as Data Scientist
+
 Модели построены на основе следующих книг:
 1. Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow, Жерон Орельен
 2. Python и машинное обучение, Рашка.С
